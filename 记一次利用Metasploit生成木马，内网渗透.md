@@ -3,7 +3,7 @@ layout:     post
 title:      Metasploit，生成木马内网渗透
 subtitle:   Metasploit，简单vmware虚拟机内网渗透。
 date:       2019-3-17
-author:     陈建武
+author:     张云
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:

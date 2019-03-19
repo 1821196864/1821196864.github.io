@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      MSF 简单内网渗透
-subtitle:   linux下利用Metasploit做一个简单的内网渗透
+title:      MSF 简单使用
+subtitle:   linux下利用Metasploit远程肉鸡
 date:       2019-3-18
 author:     张云
 header-img: img/post-bg-re-vs-ng2.jpg
@@ -10,9 +10,12 @@ tags:
     - Blog
 ---
 
-> 正所谓前人栽树，后人乘凉。
+> 走先人的路，后人少走路。
 
-# 前言
+# 前言 
+因 MSF 是kali自带，依赖于postgresql数据库，所以得先启动这个设个数据库。
+命令：/etc/init.d/postgresql start
+
 1.kali 终端运行 msfconsole
 
 2.用MSF下的msfvenom来生成木马程序到根目录。

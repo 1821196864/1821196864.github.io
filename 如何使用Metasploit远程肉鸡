@@ -15,7 +15,7 @@ tags:
 # 前言 
 因 MSF 是kali自带，依赖于postgresql数据库，所以得先启动这个设个数据库。
 命令：/etc/init.d/postgresql start
-
+https://github.com/1821196864/1821196864.github.io/blob/master/%E6%8D%95%E8%8E%B7.PNG
 1.kali 终端运行 msfconsole
 
 2.用MSF下的msfvenom来生成木马程序到根目录。

@@ -3,7 +3,7 @@ layout:     post
 title:      Web终端之使用shellinabox在浏览器进行登录
 subtitle:   linux下利用Ngrok在外网登录终端
 date:       2019-3-22
-author:     张云
+author:     k
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
